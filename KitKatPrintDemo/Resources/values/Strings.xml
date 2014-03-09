@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">KitKatPrintDemo</string>
+	<string name="helloKitKatPrinting">Hello KitKat Printing</string>
+	<string name="print">Print</string>
+	<string name="printActivity">Print Activity</string>
+	<string name="hybridActivity">Hybrid Activity</string>
+</resources>
